@@ -1,0 +1,10 @@
+[
+  {
+    "package": "R6DS",
+    "oncran": true
+  },
+  {
+    "package": "SMFilter",
+    "oncran": true
+  }
+]
