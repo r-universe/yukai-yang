@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "R6DS"]
 	path = R6DS
 	url = https://github.com/yukai-yang/r6ds
-	shallow = true
-	registered = true
 [submodule "SMFilter"]
 	path = SMFilter
 	url = https://github.com/yukai-yang/smfilter
-	shallow = true
-	registered = true
