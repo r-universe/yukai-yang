@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "PSTR"]
+	path = PSTR
+	url = https://github.com/yukai-yang/pstr
 [submodule "R6DS"]
 	path = R6DS
 	url = https://github.com/yukai-yang/r6ds
