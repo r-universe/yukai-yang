@@ -11,3 +11,6 @@
 [submodule "SMFilter"]
 	path = SMFilter
 	url = https://github.com/yukai-yang/smfilter
+[submodule "zoomgrid"]
+	path = zoomgrid
+	url = https://github.com/yukai-yang/zoomgrid
